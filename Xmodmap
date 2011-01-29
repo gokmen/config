@@ -1,0 +1,11 @@
+!default keycodes for most common notebooks (except for meteksan a4 harita metots)
+
+keycode 176 = XF86AudioRaiseVolume
+keycode 174 = XF86AudioLowerVolume
+keycode 160 = XF86AudioMute
+keycode 134 = ISO_Level3_Shift
+keycode 115 = End
+keycode 104 = Delete
+keycode 94 = less greater NoSymbol NoSymbol bar
+keycode 49 = quotedbl backslash
+keycode 204 = F13
